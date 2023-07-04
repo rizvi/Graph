@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688458618 source:d:\graph\primsalgo\main.cpp
+	<iostream>
+	<cstring>
+
